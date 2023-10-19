@@ -2,7 +2,7 @@ import csv
 import openai
 
 # Replace 'your-api-key' with your actual OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'sk-'
 
 def query_gpt(prompt, engine="gpt-3.5-turbo"):
     """
