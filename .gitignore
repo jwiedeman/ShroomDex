@@ -1,1 +1,12 @@
-downloads/
+# Exclude all common image formats in the googleimagesdownloader/downloads directory
+googleimagesdownloader/downloads/**/*.png
+googleimagesdownloader/downloads/**/*.jpg
+googleimagesdownloader/downloads/**/*.jpeg
+googleimagesdownloader/downloads/**/*.gif
+googleimagesdownloader/downloads/**/*.tiff
+googleimagesdownloader/downloads/**/*.bmp
+googleimagesdownloader/downloads/**/*.webp
+googleimagesdownloader/downloads/**/*.svg
+googleimagesdownloader/downloads/**/*.ico
+# add other formats as you identify them
+
